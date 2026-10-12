@@ -1,0 +1,5 @@
+sigpipe
+sigpipe_debug
+sigpipe_tsan
+results/*.csv
+results/*.wav
